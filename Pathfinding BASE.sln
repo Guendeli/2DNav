@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{57CDC8FF-F516-D0E3-4589-8A4C2682659A}") = "Pathfinding BASE", "Assembly-CSharp.csproj", "{95350824-8ED5-2C1D-BF32-3A239C2DEBBE}"
+EndProject
+Project("{57CDC8FF-F516-D0E3-4589-8A4C2682659A}") = "Pathfinding BASE", "Assembly-CSharp-Editor.csproj", "{6A7B5F73-DABF-FFB9-1ADB-568341ED06C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95350824-8ED5-2C1D-BF32-3A239C2DEBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95350824-8ED5-2C1D-BF32-3A239C2DEBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95350824-8ED5-2C1D-BF32-3A239C2DEBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95350824-8ED5-2C1D-BF32-3A239C2DEBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7B5F73-DABF-FFB9-1ADB-568341ED06C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7B5F73-DABF-FFB9-1ADB-568341ED06C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7B5F73-DABF-FFB9-1ADB-568341ED06C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7B5F73-DABF-FFB9-1ADB-568341ED06C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
